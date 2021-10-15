@@ -1,0 +1,43 @@
+[
+    {
+      "precio": 545 ,
+      "id": 1,
+      "title": "Shampoo Sólido Romero 100grs",
+      "picture": "./assets/img/shampooRomero.jpg"
+    },
+    {
+      "precio": 570,
+      "id": 2,
+      "title": "Shampoo Sólido Rosas",
+      "picture": "./assets/img/shampooRosas.jpg"
+    },
+    {
+      "precio": 620,
+      "id": 3,
+      "title": "Acondicionador Sólido",
+      "picture": "./assets/img/acondicionadorsolido.jpg"
+    },
+    {
+      "precio": 280,
+      "id": 4,
+      "title": "Jaboneras de Madera",
+      "picture": "./assets/img/jaboneras.jpg"
+    },
+    {
+      "precio": 190,
+      "id": 5,
+      "title": "Agua Micelar 1ltr",
+      "picture": "./assets/img/aguamicelar.jpg"
+    },
+    {
+      "precio": 480,
+      "id": 6,
+      "title": "Desodorante Natural",
+      "picture": "./assets/img/desodorante natural.jpg"
+    },
+    {
+      "precio": 350,
+      "id": 7,
+      "title": "Jabón Vegano",
+      "picture": "./assets/img/jabonvegano.jpg"
+    }]

@@ -1,0 +1,13 @@
+body{
+    background-image: url(./assets/img/banner1.jpg);
+    background-size: 100%;
+}
+
+h1{
+    margin-top: 60px;
+}
+
+#formAlertJQ {
+    text-align: center;
+    margin-top: 60px;
+}
